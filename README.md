@@ -1,2 +1,2 @@
-# microprocessor_assignment
+# Microprocessor_Assignment
 4-bit microprocessor made on logisim evolved
