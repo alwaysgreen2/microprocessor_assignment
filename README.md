@@ -13,14 +13,14 @@ We tried to implement a 4-bit microprocessar which would be the simplification o
 - `Increment`
 - `Decrement` 
 - how many executable
-- Load & Store 
+- `Load & Store`
 - clock frequency 
-- 1.0Hz
+- `1.0Hz`
 - Registers
-- 4
+- `4`
 - Register File used as RAM
 - Architecture 
-- Von Neumann
+- `Von Neumann`
 ## Work Distribution
 - Eisa Sarwar 392285
 `[Register File]`
@@ -36,7 +36,7 @@ We tried to implement a 4-bit microprocessar which would be the simplification o
 ## Circuit Diagram 
 
 ## Conclusion 
-
+We learned from this assignment how to design a 4 bit microprocessar which can execute upto 5 instructions and we also learned the basic techniques of using a github repository such as pull,commit,branch etc,we also learned how to collaborate with each member using github. 
 ## license 
 copyright © 2023 Nust, SEECS  
 Project is a product of SEECS
