@@ -38,7 +38,7 @@ We tried to implement a 4-bit microprocessar which would be the simplification o
 `[Register File]`
 - Aazmir Ahmed Bhatti 366399
 `[Program Counter]`
-- Hamza Bashir 392285
+- Hamza Bashir 383384
 `[Control Unit]`
 - Maahd Junaid 368522
 `[ALU]`
