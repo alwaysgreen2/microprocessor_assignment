@@ -34,7 +34,7 @@ We tried to implement a 4-bit microprocessar which would be the simplification o
 `[Instruction Set]`
 
 ## Circuit Diagram 
-
+![image](https://user-images.githubusercontent.com/127649787/230788542-a9f7cddb-5a59-4b9e-9e44-c36a00c92672.png)
 ## Conclusion 
 We learned from this assignment how to design a 4 bit microprocessar which can execute upto 5 instructions and we also learned the basic techniques of using a github repository such as pull,commit,branch etc,we also learned how to collaborate with each member using github. 
 ## license 
