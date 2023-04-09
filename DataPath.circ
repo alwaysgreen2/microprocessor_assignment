@@ -155,7 +155,7 @@
       <a name="addrWidth" val="4"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 4 8
-0 aa a8 2 4*a8
+a8 a2 ac a6 2 32 47 66
 </a>
     </comp>
     <comp loc="(530,380)" name="RF"/>
@@ -188,12 +188,12 @@
     <wire from="(120,230)" to="(120,400)"/>
     <wire from="(120,400)" to="(200,400)"/>
     <wire from="(120,430)" to="(170,430)"/>
-    <wire from="(1210,130)" to="(1270,130)"/>
+    <wire from="(1210,110)" to="(1270,110)"/>
     <wire from="(1210,240)" to="(1220,240)"/>
     <wire from="(1220,240)" to="(1220,350)"/>
     <wire from="(1240,300)" to="(1240,440)"/>
     <wire from="(1240,300)" to="(1270,300)"/>
-    <wire from="(1270,130)" to="(1270,300)"/>
+    <wire from="(1270,110)" to="(1270,300)"/>
     <wire from="(1270,300)" to="(1270,720)"/>
     <wire from="(130,180)" to="(180,180)"/>
     <wire from="(140,300)" to="(140,350)"/>
@@ -415,6 +415,7 @@
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(120,380)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="CLK_enable"/>
     </comp>
     <comp lib="0" loc="(260,510)" name="Pin">
       <a name="appearance" val="NewPins"/>
