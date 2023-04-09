@@ -21,6 +21,18 @@ We tried to implement a 4-bit microprocessar which would be the simplification o
 - Register File used as RAM
 - Architecture 
 - `Von Neumann`
+## Instructions Applied
+![image](https://user-images.githubusercontent.com/127649787/230788808-7b7087d0-dbc8-4c70-aae4-251479345ba6.png)
+- Bit 7,6,5 opcode 
+- Bit 4,3,2,1 Operand
+- Bit 4,3 for Reg2 
+- Bit 2,1 for Reg1
+- Bit 0 unused
+- Values stored in Reg1
+
+![image](https://user-images.githubusercontent.com/127649787/230789078-bc00d13c-ee2c-4c12-91fb-11f2551ca74c.png)
+- Bit 4,3,2,1 are for immediate values 
+- Stored in Reg1(Bits 2,1)
 ## Work Distribution
 - Eisa Sarwar 392285
 `[Register File]`
